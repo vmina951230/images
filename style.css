@@ -1,0 +1,41 @@
+body{
+    margin: 0px auto;
+}
+.box1{
+    width: 500px;
+    margin: 10px auto;
+    padding: 10px;
+    border: 1px solid lightgrey;
+    border-radius: 16px;
+}
+.box1-img{
+    width: 100%;
+    border-radius: 16px;
+}
+.text{
+    font-size: 18px;
+    font-weight: bolder;
+    color: gray;
+    margin: 8px;
+}
+.image{
+    display: flex;
+    align-items: center;
+    margin: 8px;
+}
+.image1{
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+}
+.data{
+    align-items: center;
+}
+.text1{
+    margin-bottom: 0px;
+    margin-left: 10px;
+}
+.text2{
+    margin-top: 0px;
+    margin-left: 10px;
+}
