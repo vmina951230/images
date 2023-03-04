@@ -80,9 +80,8 @@ body{
 .side-bar{
     margin:30px;
     width: 400px;
-    height:200px;
+    border: none;
     border-radius: 16px;
-    border: 1px solid gray;
 }
 .flex{
     display: flex;
@@ -97,3 +96,16 @@ body{
     font-size: 18px;
     color: grey;
 }
+.icons{
+    display: flex;
+    margin-top: 20px;
+    align-items: center;
+    justify-content: space-around;
+    background-color: black;
+    padding: 5px;
+    border-radius: 10px;
+}
+.icon{
+    color: white;
+}
+
